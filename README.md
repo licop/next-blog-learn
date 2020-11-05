@@ -1,6 +1,6 @@
 ## next 学习整理
 
-> next.js 学习demo搭建简易博客
+> next.js 学习demo搭建简易博客整理
 
 #### next学习总结的一些点
 
